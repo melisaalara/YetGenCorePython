@@ -1,0 +1,6 @@
+email=input('E-mailinizi girin.')
+
+kullaniciAdi=email[:email.index("@")]
+domain= email[email.index("@") + 1 :]
+
+print(f"Kullanızı adınız {kullaniciAdi} ve domaininiz {domain}.")
