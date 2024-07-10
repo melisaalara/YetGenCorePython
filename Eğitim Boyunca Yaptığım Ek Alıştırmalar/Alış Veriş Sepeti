@@ -1,0 +1,23 @@
+yiyecekler=[]
+fiyatlar=[]
+toplam=0
+
+while True:
+    yiyecek=input("Almak için bir ürün ismi girin. Çıkmak için e tuşuna basın.")
+    if yiyecek.lower()=="e":
+        break
+    else:
+        fiyat=float(input("Ürünün fiyatını giriniz."))
+        yiyecekler.append(yiyecek)
+        fiyatlar.append(fiyat)
+
+print ("----ALIŞ VERİŞ SEPETİNİZ----")
+
+for yiyecek in yiyecekler:
+    print(yiyecek,end="")
+
+for fiyat in fiyatlar:
+    toplam += fiyat
+
+print()
+print(f"Toplam tutarınız:{toplam}")
