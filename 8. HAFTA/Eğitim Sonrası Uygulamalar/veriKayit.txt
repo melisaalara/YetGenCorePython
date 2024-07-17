@@ -1,0 +1,4 @@
+Ýsim: Melisa, Soyisim: özüberk, Yaþ: 19, Boy: 1.59, Kilo: 52.0, VKÝ: 20.57, Sýnýf: Normal kilolu
+Ýsim: Çiðdem, Soyisim: Özüberk, Yaþ: 42, Boy: 1.55, Kilo: 59.0, VKÝ: 24.56, Sýnýf: Normal kilolu
+Ýsim: Mehmet, Soyisim: Özüberk, Yaþ: 46, Boy: 1.78, Kilo: 85.0, VKÝ: 26.83, Sýnýf: Fazla kilolu
+Ýsim: Halit, Soyisim: Özüberk, Yaþ: 15, Boy: 1.8, Kilo: 90.0, VKÝ: 27.78, Sýnýf: Fazla kilolu
